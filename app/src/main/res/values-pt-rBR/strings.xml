@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_screen">Matemágica</string>
+    <string name="start_first_text">Divirta-se com esse joguinho de matemática</string>
+    <string name="start_second_text">Com a ajuda da matemática, vamos adivinhar um número que você está pensando.</string>
+    <string name="start_second_btn_atc">Começar</string>
+    <string name="start_second_btn">Primeira Vez</string>
+    <string name="start_second_btn_none">Sobre</string>
+    <string name="info_first_text">Esse aplicativo foi desenvolvido com o objetivo de estudo.</string>
+    <string name="info_btn_atc">Projeto no Github</string>
+    <string name="onboard_first_text">Vamos la!</string>
+    <string name="onboard_second_text">Pense em um número de 1 a 15...</string>
+    <string name="onboard_third_text">Pensou diretinho?</string>
+    <string name="onboard_btn_atc">Começar</string>
+    <string name="ask_first_text">Olhe esse números:</string>
+    <string name="ask_second_text">"O número que você pensou está nessa lista? "</string>
+    <string name="ask_third_text">Pense Bem!</string>
+    <string name="ask_btn_atc">Sim!</string>
+    <string name="ask_btn_negative">Não!</string>
+    <string name="answer_first_text">O número que você pensou foi:</string>
+    <string name="answer_btn_atc">Fazer Novamente</string>
+</resources>

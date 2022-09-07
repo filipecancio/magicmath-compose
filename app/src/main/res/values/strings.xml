@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">magicmath</string>
+    <string name="app_name" translatable="false">magicmath</string>
+    <string name="app_name_screen">MagicMath</string>
+    <string name="start_first_text">Have fun playing this puzzle that\'s uses math</string>
+    <string name="start_second_text">With math\'s help, we gonna predict a number that you\'re thinking.</string>
+    <string name="start_second_btn_atc">Begin</string>
+    <string name="start_second_btn">First Time</string>
+    <string name="start_second_btn_none">About</string>
+    <string name="info_first_text">This app was developed for mobile development learning.</string>
+    <string name="info_second_text" translatable="false">Filipe Cancio</string>
+    <string name="info_third_text" translatable="false">Mobile Developer</string>
+    <string name="info_btn_atc">Project on Github</string>
+    <string name="onboard_first_text">Let\'s go!</string>
+    <string name="onboard_second_text">Think in  number between 1 and 15...</string>
+    <string name="onboard_third_text">So, thinked?</string>
+    <string name="onboard_btn_atc">Come on</string>
+    <string name="ask_first_text">Look these numbers:</string>
+    <string name="ask_second_text">Are the number you thinked here?</string>
+    <string name="ask_third_text">Pay attention!</string>
+    <string name="ask_btn_atc">Yes!</string>
+    <string name="ask_btn_negative">No!</string>
+    <string name="answer_first_text">The number that you thinked is:</string>
+    <string name="answer_btn_atc">Play again</string>
 </resources>
